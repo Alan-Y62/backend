@@ -7,3 +7,9 @@ To start:
 `npm run dev`
 
 Download Postgres and Postman. 
+
+##OVERVIEW
+
+Campus and Student Management CRUD APP
+
+[Link to Frontend](https://github.com/Alan-Y62/frontend)
